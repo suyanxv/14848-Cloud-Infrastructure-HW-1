@@ -1,0 +1,32 @@
+#### URL for your Docker image that is uploaded to your Docker Hub account
+
+https://hub.docker.com/r/suyanxv/hw2-1
+
+---
+
+#### Print for your Dockerfile contents and the source code file
+Dockerfile
+
+hello.py
+
+---
+
+#### Screenshot for the execution of your docker container on GCP
+
+first_container_showing_cluster_name.png (showing cluster name)
+
+first_container_output_on_console.png (console output)
+
+---
+
+#### Screenshot for running Jupyter notebook 
+
+jupyter_output_browser.png
+
+jupyter_output_console.png
+
+---
+
+#### Extra Credit
+
+extra_credit.png
